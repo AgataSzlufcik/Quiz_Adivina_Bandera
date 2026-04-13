@@ -15,13 +15,15 @@ cuántos puntos se gastaron en pistas frente al total posible.
 - REST Countries API (datos en tiempo real de 180+ países)
 - Pandas (limpieza y manipulación de datos)
 
-## Cómo ejecutar
+## 🚀 Instalación
 
-git clone https://github.com/AgataSzlufcik/Quiz_Adivina_Bandera.gitgit add README.md
+```bash
+git clone https://github.com/AgataSzlufcik/Quiz_Adivina_Bandera.git
+cd Quiz_Adivina_Bandera
 
-cd mi-proyecto
 python -m venv venv
 source venv/bin/activate
+
 pip install -r requirements.txt
 
 ## Funcionalidades
