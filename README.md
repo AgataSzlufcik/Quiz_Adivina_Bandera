@@ -27,6 +27,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## A jugar!
+
+En la consola ejecuta: 
+streamlit run app.py
+
 ## Funcionalidades
 
 - 180+ países obtenidos en tiempo real desde una API REST
